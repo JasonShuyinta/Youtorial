@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>
-Youtorial  
+YouTorial  
 </h1> 
 </div>
 
