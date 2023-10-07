@@ -13,6 +13,8 @@ Revolutionary! For the best e-learning experience you can find anywhere!
 
 This is a side-project I made in my free time just to experiment with different technologies I came across. It might not be perfect but I think it's cool!
 
+The project originated as my Bachelor's degree thesis, it underwent many changes from the original concept and many technologies were changed, but I made my thesis publicly available, so if you curious you can check it out [here](https://amslaurea.unibo.it/22954/)!
+
 If you have any questions please feel free to reach out to me!
 
 ## Tech Stack:
