@@ -32,6 +32,7 @@ If you have any questions please feel free to reach out to me!
 - JWT (authentication and authorization through tokens)
 - Spring Security
 - Mockito (for unit testing)
+- MongoDB (NoSQL Database)
 
 **Cloud**
 - Docker (containerization technology)
@@ -42,3 +43,4 @@ If you have any questions please feel free to reach out to me!
 - VSCode, IntelliJ
 - DockerHub
 - GitHub
+- MongoDB Atlas
